@@ -1,0 +1,31 @@
+body{
+  background-color:gold;
+  background-image: url("sunflowers.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+a{
+  color: hotpink;
+  text-decoration: none;
+}
+a:hover{
+  color: gold;
+  font-size: 20px;
+}
+p a {
+  color: lime;
+}
+p{
+  font-family: sans-serif;
+  color: white;
+}
+ul {
+  list-style-type: square;
+  color: white;
+}
+ol{
+  list-style-type: lower-alpha;
+
+color: white;
+}
