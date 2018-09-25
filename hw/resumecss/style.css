@@ -9,11 +9,23 @@ a:hover {
   font-size: 20px;
 }
 table a{
-  color: grey;
+  color: black;
   text-decoration: none;
 }
 table a:hover {
   color: black;
   text-decoration: none;
+  font-style: italic;
+}
+#myname {
+  color: green;
+}
+.Headings {
+  font-size: 20px;
+  color: gray
+}
+.Headings {text-decoration: underline;}
+.aboutme {
+  font-size: 40px;
   font-style: italic;
 }
