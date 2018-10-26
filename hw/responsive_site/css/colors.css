@@ -35,7 +35,7 @@ header {
 }
 
 nav li {
-  color: #f2f2f2;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -61,7 +61,7 @@ nav ul li a {
 
 nav a:hover {
   background-position: top;
-  background-color: #ddd
+  background-color: purple;
 }
 
 footer {
@@ -80,3 +80,54 @@ footer {
    margin-right: 95px;
 
  }
+ .picture1 {
+   margin-left: 60px;
+   width: 235;
+   margin-top: 0;
+   padding-left: 85px;
+     padding-bottom: 45px;
+ }
+ .picture2 {
+   margin-left: 60;
+   width: 265;
+   padding-top: 25px;
+ }
+.picture3 {
+  margin-left: 60;
+  width: 265;
+  padding-top: 25px;
+}
+.picture4 {
+  margin-left: 60;
+  width: 265;
+  padding-top: 25px;
+}
+.picture5 {
+  margin-left: 60;
+  width: 265;
+  padding-top: 25px;
+}
+.picture6 {
+  margin-left: 60;
+  width: 265;
+  padding-top: 25px;
+}
+.picture7 {
+  margin-left: 60;
+  width: 465;
+  height: 650;
+  padding-bottom: 45px;
+  padding-right: 45px;
+  padding-top: 45px;
+  padding-top: 25px;
+}
+.picture8 {
+  margin-left: 60;
+  width: 265;
+  padding-top: 25px;
+}
+.picture9 {
+  margin-left: 60;
+  width: 265;
+  padding-top: 25px;
+}
