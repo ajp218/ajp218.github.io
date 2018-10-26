@@ -1,54 +1,67 @@
 
-
-
+#mainimg {
+  padding-left: 240;
 }
-body {
-  background: url("../images/BEL.jpg");
-  background-repeat: none;
-  background-position: top;
 
+
+body {
+    background: url("../images/marblebel.jpg");
+  background-size: cover;
+  background-repeat: repeat-x;
+  background-position: center;
   margin: 0;
   padding: 0;
-
-
 }
-h1{
+
+.heading {
   color: #FF9999;
+  margin-left: 45px;
+  text-decoration: underline;
 }
 
+.heading1 {
+  color: #FF9999;
+  margin-left: 45px;
 }
+
 p {
   padding-left: 25px;
 }
+
 header {
-  background-color: #F1F1F1;
+  background-color: purple;
   text-align: center;
   padding: 20px;
 }
+
 nav li {
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
+
 nav ul {
   margin-top: 20px;
+  margin-left: 355px;
 }
+
 nav ul li {
   list-style-type: none;
   display: inline;
 }
+
 nav ul li a {
   padding: 20px;
-    background-color: purple;
-   background-size: cover;
-   background-position: bottom;
-   font-family: cursive;
- }
+  background-color: pink;
+  background-size: cover;
+  background-position: bottom;
+  font-style: italic;
+}
+
 nav a:hover {
   background-position: top;
   background-color: #ddd
-  color: gold;
 }
 
 footer {
@@ -56,3 +69,14 @@ footer {
   color: white;
   background: black;
 }
+
+ .paragraph {
+   padding: 60;
+   margin-left: 60px;
+   margin-right: 60px;
+ }
+ .me {
+   margin-left: 415px;
+   margin-right: 95px;
+
+ }
