@@ -1,8 +1,8 @@
 
 #mainimg {
 background-position: center;
-margin-left: 314;
-margin-right: 345;
+margin-left: 314px;
+margin-right: 345px;
 }
 
 
@@ -23,7 +23,9 @@ body {
 
 .heading1 {
   color: #FF9999;
-  margin-left: 45px;
+
+  text-align: center;
+
 }
 
 p {
@@ -45,19 +47,24 @@ nav li {
 
 nav ul {
   margin-top: 20px;
-  margin-left: 355px;
+
 }
 
 nav ul li {
   list-style-type: none;
   display: inline;
+  background-position: center;
+  margin-right: 55px;
+  margin-left: 75px;
+  
+
 }
 
 nav ul li a {
   padding: 20px;
   background-color: pink;
   background-size: cover;
-  background-position: bottom;
+  background-position: center;
   font-style: italic;
 }
 
