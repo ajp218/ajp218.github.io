@@ -1,5 +1,5 @@
 // Variable to track the number of totalstep
-var totalsteps = 3;
+var totalsteps = 5;
 
 //Track which step should be displayed
 var currentstep = 0;
